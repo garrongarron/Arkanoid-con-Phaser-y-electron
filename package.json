@@ -1,8 +1,8 @@
 {
-  "name": "tmp2",
-  "productName": "tmp2",
+  "name": "arkanoid",
+  "productName": "arkanoid",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Arkanoid made with Phaser and Electron",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
